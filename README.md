@@ -123,4 +123,4 @@ python -m comicsqueeze --no-ui -r 40% -d "/path/to/comics" -o "/path/to/out" -s 
 
 ## License
 
-MIT (adjust to taste).
+MIT.
