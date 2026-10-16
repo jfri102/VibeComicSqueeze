@@ -120,7 +120,7 @@ python -m comicsqueeze --no-ui -r 40% -d "/path/to/comics" -o "/path/to/out" -s 
   continues.
 - Output never overwrites a source file — if the computed destination path
   would collide with the source, that file is skipped with a warning.
-
+- test file
 ## License
 
 MIT.
